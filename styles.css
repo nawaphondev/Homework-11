@@ -73,12 +73,10 @@
   
   .btn-add {
     font-size: 20px;
-    background-color: peachpuff;
-    border-color: peachpuff;
+    background-color: #bdb2ff;
+    border-color: #bdb2ff;
     padding: 10px;
     text-align: center;
     display: block;
     margin: auto;
   }
-  
-  
